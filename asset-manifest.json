@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Alexsavchuk95/goit-react-hw-01-components.git/static/css/main.160ad302.chunk.css",
-    "main.js": "/Alexsavchuk95/goit-react-hw-01-components.git/static/js/main.c2e0b0e6.chunk.js",
-    "main.js.map": "/Alexsavchuk95/goit-react-hw-01-components.git/static/js/main.c2e0b0e6.chunk.js.map",
-    "runtime-main.js": "/Alexsavchuk95/goit-react-hw-01-components.git/static/js/runtime-main.79898d58.js",
-    "runtime-main.js.map": "/Alexsavchuk95/goit-react-hw-01-components.git/static/js/runtime-main.79898d58.js.map",
-    "static/js/2.3a632355.chunk.js": "/Alexsavchuk95/goit-react-hw-01-components.git/static/js/2.3a632355.chunk.js",
-    "static/js/2.3a632355.chunk.js.map": "/Alexsavchuk95/goit-react-hw-01-components.git/static/js/2.3a632355.chunk.js.map",
-    "index.html": "/Alexsavchuk95/goit-react-hw-01-components.git/index.html",
-    "precache-manifest.f2578442ee71b37b4af9967d8c94439d.js": "/Alexsavchuk95/goit-react-hw-01-components.git/precache-manifest.f2578442ee71b37b4af9967d8c94439d.js",
-    "service-worker.js": "/Alexsavchuk95/goit-react-hw-01-components.git/service-worker.js",
-    "static/css/main.160ad302.chunk.css.map": "/Alexsavchuk95/goit-react-hw-01-components.git/static/css/main.160ad302.chunk.css.map"
+    "main.css": "/Alexsavchuk95/goit-react-hw-01-components/static/css/main.160ad302.chunk.css",
+    "main.js": "/Alexsavchuk95/goit-react-hw-01-components/static/js/main.c2e0b0e6.chunk.js",
+    "main.js.map": "/Alexsavchuk95/goit-react-hw-01-components/static/js/main.c2e0b0e6.chunk.js.map",
+    "runtime-main.js": "/Alexsavchuk95/goit-react-hw-01-components/static/js/runtime-main.b28adb3d.js",
+    "runtime-main.js.map": "/Alexsavchuk95/goit-react-hw-01-components/static/js/runtime-main.b28adb3d.js.map",
+    "static/js/2.3a632355.chunk.js": "/Alexsavchuk95/goit-react-hw-01-components/static/js/2.3a632355.chunk.js",
+    "static/js/2.3a632355.chunk.js.map": "/Alexsavchuk95/goit-react-hw-01-components/static/js/2.3a632355.chunk.js.map",
+    "index.html": "/Alexsavchuk95/goit-react-hw-01-components/index.html",
+    "precache-manifest.5b7ad979efd51064bd95de080e0101e4.js": "/Alexsavchuk95/goit-react-hw-01-components/precache-manifest.5b7ad979efd51064bd95de080e0101e4.js",
+    "service-worker.js": "/Alexsavchuk95/goit-react-hw-01-components/service-worker.js",
+    "static/css/main.160ad302.chunk.css.map": "/Alexsavchuk95/goit-react-hw-01-components/static/css/main.160ad302.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.79898d58.js",
+    "static/js/runtime-main.b28adb3d.js",
     "static/js/2.3a632355.chunk.js",
     "static/css/main.160ad302.chunk.css",
     "static/js/main.c2e0b0e6.chunk.js"
