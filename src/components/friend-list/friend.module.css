@@ -1,0 +1,44 @@
+li {
+  list-style: none;
+}
+.list {
+  font-size: 30px;
+}
+
+.listItem {
+  display: flex;
+  width: 400px;
+  height: 114px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+.statusOn {
+  content: '';
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  background-color: #60b250;
+  border-radius: 50%;
+  top: 45px;
+  left: 14px;
+}
+
+.statusOff {
+  content: '';
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  background-color: red;
+  border-radius: 50%;
+  top: 45px;
+  left: 14px;
+}
+
+.avatar {
+  height: 98px;
+  width: 96px;
+  margin: 8px 18px 8px 54px;
+  border-radius: 20px;
+}
